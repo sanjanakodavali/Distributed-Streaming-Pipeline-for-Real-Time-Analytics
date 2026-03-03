@@ -55,8 +55,8 @@ curl -i -X POST -H "Accept:application/json" -H "Content-Type:application/json" 
 
 # Follow Me On
   
-* LinkedIn: [@omolewajoshua](https://www.linkedin.com/in/joshuaomolewa/)  
-* Github: [@joshua-omolewa](https://github.com/Joshua-omolewa)
+* LinkedIn: [@omolewajoshua](https://www.linkedin.com/in/sanjanakodavali/)  
+* Github: [@joshua-omolewa](https://github.com/sanjanakodavali)
 
 
 ## Show your support
