@@ -56,7 +56,7 @@ curl -i -X POST -H "Accept:application/json" -H "Content-Type:application/json" 
 # Follow Me On
   
 * LinkedIn: [@sanjanakodavali](https://www.linkedin.com/in/sanjanakodavali/)  
-* Github: [@jsanjanakodavali](https://github.com/sanjanakodavali)
+* Github: [@sanjanakodavali](https://github.com/sanjanakodavali)
 
 
 ## Show your support
